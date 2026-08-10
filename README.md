@@ -14,11 +14,12 @@ Développeur curieux, orienté produit, automatisation et IA. J'aime transformer
 ## Stack et centres d'intérêt
 
 ```txt
-TypeScript   React   React Native   Expo   Node.js
-Python       FastAPI   Automation   APIs
+TypeScript   React        React Native          Expo             Node.js
+Python       FastAPI      Automation            APIs
 Rust         Blockchain   Distributed systems
-LLM          AI agents   Prompt engineering   RAG
-Docker       Coolify   Linux   GitHub Actions
+LLM          AI agents    Prompt engineering    RAG
+Docker       Coolify      Linux                 GitHub Actions
+Godot
 ```
 
 ## Projets et sujets que j'explore
@@ -45,6 +46,7 @@ Je travaille sur plusieurs projets autour de l'IA, du mobile, de l'automatisatio
 ## Me contacter
 
 - X / Twitter : [@ansi__code](https://x.com/ansi__code)
+- BlueSky : [@ansicode.bsky.social](https://bsky.app/profile/ansicode.bsky.social)
 - LinkedIn : [hansi-pierre](https://www.linkedin.com/in/hansi-pierre-05582b1b2/)
 - Blog : [blog.ansicode.fr](https://blog.ansicode.fr)
 - GitHub : disponible ici, dans mes repositories publics
