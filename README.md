@@ -9,6 +9,7 @@ Développeur curieux, orienté produit, automatisation et IA. J'aime transformer
 - Projets IA et agents autonomes
 - Expériences autour des LLM, du Rust et des architectures distribuées
 - Produits éducatifs et applications orientées apprentissage
+- Jeux
 
 ## Stack et centres d'intérêt
 
