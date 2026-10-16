@@ -4,7 +4,7 @@ Développeur curieux, orienté produit, automatisation et IA. J'aime transformer
 
 ## Ce que je construis
 
-- Applications web et mobiles
+- Applications/jeux web et mobiles
 - Outils d'automatisation
 - Projets IA et agents autonomes
 - Expériences autour des LLM, du Rust et des architectures distribuées
